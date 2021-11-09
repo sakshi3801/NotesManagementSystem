@@ -1,0 +1,10 @@
+.abt {
+ display: block;
+ width: 50%;
+ float: left;
+ margin: auto;
+ padding-left: 40px;
+ padding-top: 50px;
+ text-align: justify;
+
+}

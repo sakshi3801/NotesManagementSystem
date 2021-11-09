@@ -1,0 +1,25 @@
+#card{
+
+    text-align: center;
+    padding-top: 20px;
+    margin: auto;
+    color: red;
+}
+
+.cardBody{
+
+    margin: auto;
+}
+
+img{
+
+    width: 100px;
+    height: 100px;
+}
+
+.title{
+
+    font-size: 30px;
+    padding-top: 20px;
+    color: red;
+}

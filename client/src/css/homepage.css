@@ -1,0 +1,43 @@
+.bg{
+
+    background: url('../images/btp7.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 700px;
+    border: 0px;
+    padding: 0px;
+}
+
+.main{
+    font-family: 'Roboto', sans-serif;
+
+    border: 0px;
+
+}
+
+h2{
+
+    font-size: 60px;
+    color: #082032;
+}
+
+p{
+
+    font-size: 25px;
+    
+}
+
+.content{
+
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 60px;
+    top: 90px;
+
+    
+}
+
+span{
+
+    color: #38A3A5;;
+}
