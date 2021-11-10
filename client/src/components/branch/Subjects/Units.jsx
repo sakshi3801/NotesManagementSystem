@@ -164,6 +164,7 @@ export default function Notes(props) {
               <tr key={f["_id"]}>
                 
                 <td>
+                {f["likedBy"].length}
                 <img
                   src={
                     f["likedBy"].indexOf(user._id) > -1
